@@ -1,3 +1,10 @@
+# Outcome
+* After cleaning the data and using PCA and TSNE methods to reduce dimensions on the remaining one hot encoded dataset, no clustering was found. 
+* After clearning the data and using K means methods for plotting nearest neighbors and an elbow plot, no clustering was found. The resulting plot was fairly straight with no clear inflection points.
+
+# Conclusion
+* There are no discernible clusters in this dataset.
+
 
 # Cryptocurrency Clusters
 
